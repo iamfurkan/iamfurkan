@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamfurkan
 - 👀 I’m interested in software development and data science.
-- 🌱 I’m currently learning Python, Knime, Qlik Sense.
+- 🌱 I’m currently learning C#, Python, Knime, Qlik Sense and Excel.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
