@@ -10,5 +10,8 @@ python --version
 
 python -m django --version
 
-### 
+### pip versiyon öğrenme
 
+pip --version
+
+### 
