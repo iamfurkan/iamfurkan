@@ -1,3 +1,14 @@
-# Requires the latest pip
+#### Requires the latest pip
+
 pip install --upgrade pip
+
+#### Python versiyon öğrenme.
+
+python --version
+
+### Django versiyon öğrenme
+
+python -m django --version
+
+### 
 
