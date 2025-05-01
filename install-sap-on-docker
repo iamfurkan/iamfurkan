@@ -17,15 +17,14 @@ docker stop -t 7200 a4h
 USERNAME : DEVELOPER
 PASSWORD : ABAPtr2022#01
 
+### LISENCE RENEW
 
+https://go.support.sap.com/minisap/#/minisap
 
-
-
-
-
-
-
-
-
+> Choose: A4H - SAP NetWeaver AS ABAP 7.4 and above (Linux / SAP HANA)
+> Download txt file
+> start slicense transaction
+> first delete all license (right click)
+> install text file
 
 ### END
